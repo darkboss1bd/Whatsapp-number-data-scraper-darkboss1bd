@@ -1,7 +1,7 @@
 # Whatsapp-number-data-scraper-darkboss1bd
 View data of a WhatsApp number, including its status, photo, etc. 🕵🏽‍♂️
 
-<img src="https://i.ibb.co.com/JjxP1qbd/data.png" title="Whatsapp number data scraper darkboss1bd">
+<img src="https://i.ibb.co.com/v48STCtp/data-bd.png" title="Whatsapp number data scraper darkboss1bd">
 
 ---
 
